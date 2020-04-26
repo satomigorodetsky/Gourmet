@@ -12,7 +12,7 @@ In Gourmet, users are able to see worldwide michelin star restraunts by continen
 
 ## Wireframes
 
-![Wireframe1](pagetom.png)
+![Wireframe1](pagetop.png)
 ![Wireframe2](pagebottom.png)
 
 
