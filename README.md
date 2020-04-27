@@ -25,14 +25,14 @@ In Gourmet, users are able to see worldwide michelin star restraunts by continen
 ## Implementation Timeline
 
 * Phase 1 (Day 1 & 2)
-    * Sort data and research on d3
+    * Create dataset and research on d3
     * Render bar chart (with csv data)
 * Phase 2 (Day 3 & 4)
     * Make sure selector for bar chart works 
-    * implement bubble chart 
+    * implement bubble chart
 * Phase 3  Day 5
     * Complete HTML and CSS for site elements
     * Production README
 
 ## Bonus Feature
-* allow users to see all the restraunts when they click bubble chart 
+* allow users to see how many michelin stars are in that cuisin category when they hover over bubble chart (ex. hover over "italian" 1star: 2, 2stars:3, 3stars: 3)
