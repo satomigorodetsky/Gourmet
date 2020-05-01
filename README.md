@@ -1,3 +1,6 @@
+
+#![Gourmet](https://sokada101.github.io/Gourmet/) 
+
 ## Background and Overview 
 
 Michelin stars are a rating system used by the red Michelin Guide to grade restaurants on their quality.
@@ -11,12 +14,11 @@ Dream big and plan your next special occasion at one of michelin star restraunts
 In Gourmet, 
 * users are able to see the distribution of Michelin star resturaunts across different US regions with an interactive bar graph. 
 
-![Wireframe1](./assets/barchart.gif)
+![Barchart](./assets/barchart.gif)
 
 * users are able to play mini guessing game with an interactive bubble graph. 
 
-![Wireframe2](./assets/bubblechart.gif) 
-
+![Bubblechart](./assets/bubblechart.gif) 
 
 ## Architecture and Technology 
 
