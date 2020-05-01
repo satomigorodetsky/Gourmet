@@ -13,7 +13,7 @@ In Gourmet,
 
 ![Wireframe1](./assets/barchart.gif)
 
-* users are able to play mini guessing game with an interactive bar chart. 
+* users are able to play mini guessing game with an interactive bubble graph. 
 
 ![Wireframe2](./assets/bubblechart.gif) 
 
