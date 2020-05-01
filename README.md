@@ -11,11 +11,11 @@ Dream big and plan your next special occasion at one of michelin star restraunts
 In Gourmet, 
 * users are able to see the distribution of Michelin star resturaunts across different US regions with an interactive bar graph. 
 
-![Wireframe1](./assets/barchart.png)
+![Wireframe1](./assets/barchart.gif)
 
 * users are able to play mini guessing game with an interactive bar chart. 
 
-![Wireframe2](./assets/bubblechart.png) 
+![Wireframe2](./assets/bubblechart.gif) 
 
 
 ## Architecture and Technology 
