@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 #![Gourmet](https://sokada101.github.io/Gourmet/) 
+=======
+[Gourmet](https://sokada101.github.io/Gourmet/) 
+>>>>>>> 67f0b6f29799af4f5f551bbeb090c402c319010a
 
 ## Background and Overview 
 
@@ -19,7 +23,10 @@ In Gourmet,
 * users are able to play mini guessing game with an interactive bubble graph. 
 
 ![Bubblechart](./assets/bubblechart.gif) 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67f0b6f29799af4f5f551bbeb090c402c319010a
 
 ## Architecture and Technology 
 
