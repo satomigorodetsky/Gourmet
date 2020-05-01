@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-#![Gourmet](https://sokada101.github.io/Gourmet/) 
-=======
 [Gourmet](https://sokada101.github.io/Gourmet/) 
->>>>>>> 67f0b6f29799af4f5f551bbeb090c402c319010a
 
 ## Background and Overview 
 
