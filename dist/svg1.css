@@ -1,0 +1,56 @@
+
+.svg1-buttons {
+    /* display:inline-block; */
+    margin-top: 50px;
+}
+
+.svg1-buttons > img, button {
+    width: 120px;
+    height: 60px; 
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+    background-color: #dc3545;
+    color: #FFF5EE;
+    margin: 1em;
+    border-radius: 10px;
+    cursor: pointer; 
+    outline: none;
+}
+
+.svg1 {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0% 3.5%;
+    margin-bottom: 3%;
+    border: 1px solid #dc3545;
+}
+
+
+.x-axis {
+    font-size: 20px;
+}
+
+.y-axis {
+    font-size: 20px;
+}
+
+div.tooltip {
+     position: absolute;
+     text-align: center;
+     padding: .5rem;
+     background: #FFF5EE;
+     color: #313639;
+     border: 1px solid #313639;
+     border-radius: 8px;
+     pointer-events: none;
+     font-size: 1.3rem;
+     font-family: sans-serif;
+}
+
+.barchart-title {
+    font-size: 3em;
+    color: #dc3545;
+}

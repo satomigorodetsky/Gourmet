@@ -1,17 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Gourmet</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./dist/main.css" />
+    <link rel="stylesheet" href="./dist/svg1.css" />
+    <link rel="stylesheet" href="./dist/svg2.css" />
+    <script src="https://kit.fontawesome.com/b1d719111a.js" crossorigin="anonymous"></script>
 
-    <title>Gourmet</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+    <script src="https://d3js.org/d3-force.v2.min.js"></script>
+        <script src="./lib/svg1.js"></script>
+        <script src="./lib/svg2.js"></script>
+
 </head>
 <body>
-    <h1>Welcome to Gourmet!</h1>
-
-    <main id="main">
-        <script src="./dist/main.js"></script>
-    </main>
+    <div class="header">
+        <h1>Gourmet <i class="fas fa-utensils"></i></h1>
+    </div>
+    <div class="about">
+        <div class="about-p"> 
+            <h2 class="about-p-2">Welcome to Gourmet!</h2><br>
+            Ever wanted to know the distribution of Michelin star resturaunts across different US regions?<br>
+            Look no further than below to learn about the number of 
+            total Michelin stars, and the number of 1 star, 2 stars and 3 stars Michelin resturaunts 
+            in popular regions like New York, California and others.
+        </div>
+    </div>
+    <div class="svg1" id="svg1">
+        <div class="svg1-buttons">
+            <button id="button-0">Total</button>
+            <img id="button-1" src="./assets/one_star.jpg"></img>
+            <img id="button-2" src="./assets/two_stars.jpg"></img>
+            <img id="button-3" src="./assets/three_stars.jpg"></img>
+        </div>
+    </div>
+    <div class="middle">
+        <div class="middle-p">
+          <h2 class="middle-p-2">The Michelin Guessing Game</h2><br>
+            Which cuisine do you think represents the most Michelin star resturaunts in your choice region in 2019? <br>
+            What about the second and third most? Take a guess! <br>
+            Click once on a bubble to reveal the cuisine, and click twice to reveal all cuisines! <br>
+            Remember. The bigger the bubble the more restaurants that cuisine represents.
+        </div>
+    </div>
+    <div class="svg2" id="svg2">
+        <div class="svg2-buttons">
+            <img id="button-00" src="./assets/nyc.png"></img>
+            <img id="button-01" src="./assets/california.png"></img>
+            <img id="button-02" src="./assets/chicago.png"></img>
+            <img id="button-03" src="./assets/washington.png"></img>
+        </div>
+    </div>
+    <div class="footer">
+            <div class="footer-p">
+                <h2 class="footer-h2">Thank you for visiting Gourmet!</h2>
+                <span class="icons">
+                    <a href="https://www.linkedin.com/in/satomiokada/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/Sokada101"  target="_blank"><i class="fab fa-github-square"></i></a>
+                    <a href=""   target="_blank"><i class="far fa-address-card"></i></a>
+                </span>
+            </div>
+    </div>
 </body>
+
 </html>

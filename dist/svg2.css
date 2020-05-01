@@ -1,0 +1,39 @@
+.svg2-buttons {
+    width: 100px;
+    margin-top: 100px;
+}
+
+
+.svg2-buttons > img {
+    width: 70px;
+    height: 70px; 
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+    margin: 1em;
+    border-radius: 10px;
+    cursor: pointer; 
+}
+
+.svg2 {
+    padding-top: 5em;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3% 3.5%;
+    border: 1px solid #dc3545;
+    
+}
+
+.cuisine-texts {
+    padding: 2px;
+}
+
+
+.cuisine circle:hover {
+  stroke: black;
+}
+
+.tooltip1 {
+    height: 100px;
+}
