@@ -81,10 +81,8 @@ Also, made sure the chart doesn't show the data that user already clicked by cha
 ```javascript 
  circles
         .on("click", function (d) {
-          debugger
           if (revealOne === true) {
             d3.selectAll('.cuisine-texts').remove();
-            debugger
             revealOne = false
             const text = d3.select(d3.event.currentTarget.parentElement)
               .append("text")
@@ -106,7 +104,6 @@ Also, made sure the chart doesn't show the data that user already clicked by cha
               .attr("y", d.y )
               .style("text-anchor", "middle")
           } else {
-            debugger
             d3.selectAll('.cuisine-text').remove();
             revealOne = true;
           }

@@ -3,7 +3,7 @@ body, html{
 }
 
 .header {
- background-image:linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(255, 254, 254, 0.15)), url(https://github.com/Sokada101/Gourmet/blob/master/assets/banner.jpg);
+ background-image:linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(255, 254, 254, 0.15)), url(/assets/banner.jpg);
  width: 100%;
  height: 600px;
  margin: 0;
